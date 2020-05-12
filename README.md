@@ -5,7 +5,7 @@ an exchange of information between three modules lsted below.
 
 ## Schema
 
-![starting panel](https://github.com/kamsza/rabbitmq_project/master/schema.PNG)
+![starting panel](https://github.com/kamsza/rabbitmq_project/blob/master/schema.PNG)
 
 
 ## Task
